@@ -1,11 +1,16 @@
 ### Hi, there!  🙌 😍    <img src="https://komarev.com/ghpvc/?username=NathaliaFernandes28&color=red" alt="Profile views" />
 
-<p align:"center" >I'm Nathalia, I'm 30 years old, I'm originally from Rio de Janeiro, Rio de Janeiro.
+<p>I'm Nathalia, I'm 30 years old, I'm originally from Rio de Janeiro, Rio de Janeiro.
+<br>
+<br>
 <br>
 I am a Full-stack web developer, here you will find some of my projects, my main goal is to join a company where I am challenged to put all my knowledge into practice. I am obsessed with knowledge, spending several hours of my day studying new technologies and better ways to apply them. 
 <br>
+<br>
+<br>
 In my free time, I like to read, watch movies and listen to music.</p>
 
+<br>
 <br>
 <br>
 
@@ -34,10 +39,11 @@ You can find me here too 👇
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
  </div>
-
-  
 </div>
 
+<br>
+<br>
+<br>
 
 <p align="center">  
  <img src="https://github-readme-stats.vercel.app/api?username=NathaliaFernandes28&show_icons=true&theme=radical" alt="NathaliaFernandes28"/> 
