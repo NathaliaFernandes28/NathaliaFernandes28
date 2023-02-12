@@ -1,10 +1,10 @@
 ### Hi, there!  🙌 😍    <img src="https://komarev.com/ghpvc/?username=NathaliaFernandes28&color=red" alt="Profile views" />
 
-I'm Nathalia, I'm 30 years old, I'm originally from Rio de Janeiro, Rio de Janeiro.
+<p align:"center" >I'm Nathalia, I'm 30 years old, I'm originally from Rio de Janeiro, Rio de Janeiro.
 <br>
 I am a Full-stack web developer, here you will find some of my projects, my main goal is to join a company where I am challenged to put all my knowledge into practice. I am obsessed with knowledge, spending several hours of my day studying new technologies and better ways to apply them. 
 <br>
-In my free time, I like to read, watch movies and listen to music.
+In my free time, I like to read, watch movies and listen to music.</p>
 
 <br>
 <br>
