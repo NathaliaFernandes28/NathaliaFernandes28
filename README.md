@@ -2,8 +2,13 @@
 
 <img src="https://komarev.com/ghpvc/?username=NathaliaFernandes28&color=yellow" alt="Profile views" />
 
+<!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
+ <img align="right" alt="GIF" src="![projeto gitHub](https://user-images.githubusercontent.com/88513545/218339399-01f819cc-ea97-4ab5-90f0-365c929d9d6e.png)
+" width="360px"/>
+
 <p>I'm Nathalia, I'm 30 years old, I'm originally from Rio de Janeiro, RJ.
-<br>
+<br>  
+
 <br>
 <br>
 I am a Full-stack web developer, here you will find some of my projects, my main goal is to join a company where I am challenged to put all my knowledge into practice. I am obsessed with knowledge, spending several hours of my day studying new technologies and better ways to apply them. 
@@ -11,6 +16,8 @@ I am a Full-stack web developer, here you will find some of my projects, my main
 <br>
 <br>
 In my free time, I like to read, watch movies and listen to music.</p>
+
+
 
 <br>
 <br>
