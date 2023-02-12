@@ -1,6 +1,6 @@
 ### Hi, there!  🙌 😍    <img src="https://komarev.com/ghpvc/?username=NathaliaFernandes28&color=red" alt="Profile views" />
 
-<p>I'm Nathalia, I'm 30 years old, I'm originally from Rio de Janeiro, Rio de Janeiro.
+<p>I'm Nathalia, I'm 30 years old, I'm originally from Rio de Janeiro, RJ.
 <br>
 <br>
 <br>
@@ -47,6 +47,9 @@ You can find me here too 👇
 
 <p align="center">  
  <img src="https://github-readme-stats.vercel.app/api?username=NathaliaFernandes28&show_icons=true&theme=radical" alt="NathaliaFernandes28"/> 
+ <br>
+ <br>
+ <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaFernandes28&layout=compact&theme=radical" alt="NathaliaFernandes28"
 </p>
 
