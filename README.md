@@ -1,4 +1,6 @@
-### Hi, there!  🙌 😍    <img src="https://komarev.com/ghpvc/?username=NathaliaFernandes28&color=red" alt="Profile views" />
+### Hi, there!  🙌 😍   
+
+<img src="https://komarev.com/ghpvc/?username=NathaliaFernandes28&color=yellow" alt="Profile views" />
 
 <p>I'm Nathalia, I'm 30 years old, I'm originally from Rio de Janeiro, RJ.
 <br>
