@@ -21,7 +21,7 @@ You can find me here too 👇
 <br>
 <br>
 
-### ⚙️ Algumas tecnologias e ferramentas que utilizo
+### ⚙️ Tech Stack
 
 <div align="center"><br>
 
@@ -38,7 +38,7 @@ You can find me here too 👇
   
 </div>
 
-### 🔥 Outras estastísticas
+
 <p align="center">  
  <img src="https://github-readme-stats.vercel.app/api?username=NathaliaFernandes28&show_icons=true&theme=radical" alt="NathaliaFernandes28"/> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NathaliaFernandes28&layout=compact&theme=radical" alt="NathaliaFernandes28"
