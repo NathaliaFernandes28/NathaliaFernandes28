@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=NathaliaFernandes28&color=red" alt="Profile views" />
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
- <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/88513545/218473073-6a92680f-1e32-4032-8e3d-18681fb3789a.png" width="400">
+ <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/88513545/218473073-6a92680f-1e32-4032-8e3d-18681fb3789a.png" width="300">
 
 <p>I'm Nathalia, I'm 30 years old, I'm originally from Rio de Janeiro, RJ.
 <br>  
