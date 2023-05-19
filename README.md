@@ -29,6 +29,12 @@ You can find me here too 👇
  <br>
  <a href="https://www.linkedin.com/in/nathaliafo/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin"/>
 </a>
+<br>
+  <a href="https://www.frontendmentor.io/profile/NathaliaFernandes28" target="_blank"><img align="center" src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white" alt="FrontEnd Mentor"/>
+</a>
+ 
+  
+</a>
 </div>
 
 <br>
@@ -48,6 +54,7 @@ You can find me here too 👇
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
+ <img align="center" alt="sass" src="https://img.shields.io/badge/-Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
  </div>
 </div>
 
