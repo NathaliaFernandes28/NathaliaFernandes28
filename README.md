@@ -32,9 +32,7 @@ You can find me here too 👇
 <br>
   <a href="https://www.frontendmentor.io/profile/NathaliaFernandes28" target="_blank"><img align="center" src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white" alt="FrontEnd Mentor"/>
 </a>
- <br>
- <a href="https://www.youtube.com/channel/UCxEmS13jP_u1SHqn_Qt_Myg" target="_blank"><img align="center" src="https://img.shields.io/youtube/channel/subscribers/:channelId" alt="Youtube"/>
-</a>
+ 
 </div>
 
 <br>
