@@ -5,7 +5,7 @@
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/88513545/218473073-6a92680f-1e32-4032-8e3d-18681fb3789a.png" width="300">
 
-<p>I'm Nathalia, I'm 31 years old, I'm originally from Rio de Janeiro, RJ.
+<p>I'm Nathalia, I'm 32 years old, I'm originally from Rio de Janeiro, RJ.
 <br>  
 
 <br>
