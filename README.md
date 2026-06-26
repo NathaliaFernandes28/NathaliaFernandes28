@@ -22,7 +22,7 @@ No meu tempo livre, gosto de ler ficção/biografias, assistir a filmes e ouvir 
 <br>
 <br>
 
-You can find me here too 👇
+Você pode me encontrar também por aqui 👇
 
 <div style="display: inline_block"><br> 
  <a href = "mailto:oliveiranfernandes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
