@@ -5,16 +5,16 @@
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
  <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/88513545/218473073-6a92680f-1e32-4032-8e3d-18681fb3789a.png" width="300">
 
-<p>I'm Nathalia, I'm 33 years old, I'm originally from Rio de Janeiro, RJ.
+<p>Olá, eu sou a Nathalia, tenho 33 anos e sou originalmente do Rio de Janeiro, RJ.
 <br>  
 
 <br>
 <br>
-I am a Full-stack web developer, here you will find some of my projects, my main goal is to join a company where I am challenged to put all my knowledge into practice. I am obsessed with knowledge, spending several hours of my day studying new technologies and better ways to apply them. 
+Sou desenvolvedora Python com conhecimento em SQL. Aqui você encontrará alguns dos meus projetos; meu principal objetivo é ingressar em uma empresa onde eu seja desafiada a colocar todo o meu aprendizado em prática. Sou extremamente focada em aprendizado contínuo, dedicando várias horas do meu dia ao estudo de novas tecnologias e às melhores formas de aplicá-las.
 <br>
 <br>
 <br>
-In my free time, I like to read, watch movies and listen to music.</p>
+No meu tempo livre, gosto de ler ficção/biografias, assistir a filmes e ouvir boa música.</p>
 
 
 
