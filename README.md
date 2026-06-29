@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=NathaliaFernandes28&color=red" alt="Profile views" />
 
 <!--- Web illustrations by Storyset ( https://storyset.com/web ) --->
- <img align="right" alt="GIF" src="https://storyset.com/illustration/startup-life/pana#FF81AEFF&hide=Rocket&hide=false" width="300">
+ <img align="right" alt="Illustration" src="https://stories.freepiklabs.com/api/vectors/startup-life/pana/render?color=FF81AEFF&hide=Rocket" width="300">
 
 <p>Olá, eu sou a Nathalia, tenho 33 anos e sou originalmente do Rio de Janeiro, RJ.
 <br>  
